@@ -6,3 +6,6 @@ It basically follows the tutorial described here: https://docs.gradle.org/curren
 I have added an example dependency that reads a CSV file (many of you look like they want something like that). A tutorial is here: https://www.callicoder.com/java-read-write-csv-file-apache-commons-csv/
 
 There are different options for reading input from the console: https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Place your assigned file description.pdf in the root folder of the project. Add whatever documentation you feel necessary in README.md (also root folder).
