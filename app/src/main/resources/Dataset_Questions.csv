@@ -1,0 +1,14 @@
+id,quiz_number,question,option_1,option_2,option_3,option_4,answer
+1,1,¿ hello?,1,2,3,4,1
+2,1,¿ hello?,1,2,3,4,2
+3,1,¿ hello?,1,2,3,4,3
+4,1,¿ hello?,1,2,3,4,4
+5,1,¿ hello?,1,2,3,4,1
+6,1,¿ hello?,1,2,3,4,2
+7,2,¿ cold?,a,b,c,d,a
+8,2,¿ cold?,a,b,c,d,b
+9,2,¿ cold?,a,b,c,d,c
+10,2,¿ cold?,a,b,c,d,d
+11,3,¿angry?,Swing,Red,Spider,Ovni,Spider
+12,3,¿angry?,Swing,Red,Spider,Ovni,Ovni
+13,3,¿angry?,Swing,Red,Spider,Ovni,Red

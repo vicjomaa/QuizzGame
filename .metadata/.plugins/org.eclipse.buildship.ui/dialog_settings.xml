@@ -5,4 +5,10 @@
 		<item key="use_default_location" value="true"/>
 		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(WRAPPER)"/>
 	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="D:\HCI-SecondSemester\SoftwareEngineering\QuizzGame"/>
+		<item key="apply_working_sets" value="false"/>
+		<list key="working_sets">
+		</list>
+	</section>
 </section>
