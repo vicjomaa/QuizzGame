@@ -38,7 +38,7 @@ class OnlineTest extends JFrame implements ActionListener
 			bg.add(jb[i]);
 		}
 		b1=new JButton("Next");
-		b2=new JButton("Bookmark");
+		b2=new JButton("Result");
 		b1.addActionListener(this);
 		b2.addActionListener(this);
 		add(b1);add(b2);
@@ -49,7 +49,7 @@ class OnlineTest extends JFrame implements ActionListener
 		jb[2].setBounds(50,140,100,20);
 		jb[3].setBounds(50,170,100,20);
 		b1.setBounds(100,240,100,30);
-		//b2.setBounds(270,240,100,30);
+		b2.setBounds(270,240,100,30);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLayout(null);
 		setLocation(250,100);
@@ -72,22 +72,25 @@ class OnlineTest extends JFrame implements ActionListener
 				b2.setText("Result");
 			}
 		}
-		/*
-		if(e.getActionCommand().equals("Bookmark"))
+		
+		
+		
+		if(e.getActionCommand().equals("Result"))
 		{
-			JButton bk=new JButton("Bookmark"+x);
-			bk.setBounds(480,20+30*x,100,30);
-			add(bk);
-			bk.addActionListener(this);
-			m[x]=current;
-			x++;
-			current++;
-			set();	
+			//JButton bk=new JButton("Bookmark"+x);
+			//bk.setBounds(480,20+30*x,100,30);
+			//add(bk);
+			//bk.addActionListener(this);
+			//m[x]=current;
+			//x++;
+			//current++;
+			//set();	
 			if(current==limitQuestions)
 				b2.setText("Result");
 			setVisible(false);
 			setVisible(true);
 		}
+		/*
 		for(int i=0,y=1;i<x;i++,y++)
 		{
 		if(e.getActionCommand().equals("Bookmark"+y))
@@ -101,7 +104,9 @@ class OnlineTest extends JFrame implements ActionListener
 			current=now;
 		}
 		} */
-	
+		 
+		
+		
 		if(e.getActionCommand().equals("Result"))
 		{
 			if(check())
