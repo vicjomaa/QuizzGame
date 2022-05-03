@@ -48,10 +48,10 @@ programming, machine learning and software engineering in general / a multiple-c
 • We also want to save the progress of points and unlocked quizzes for the user.  
   
 **References:**  
-https://gameoftheyear.withgoogle.com/  
+https://gameoftheyear.withgoogle.com/     
 
 
-**>> Our Tasks**  
+**>> Tasks**  
 ~~Create github~~   
 Define functions, variables, classes   
 Function to extract info from csv   
