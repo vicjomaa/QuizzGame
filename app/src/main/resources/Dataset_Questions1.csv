@@ -69,7 +69,7 @@
 68,3,18,Decision support programs are designed to help managers make:,(A) Budget projections,(B) Visual presentations,(C) Business decisions,(D) Vacation schedules,C
 69,3,19,LISP machines also are known as:,(A) AI workstations,(B) Time-sharing terminals,(C) Super mini computers,(D) None of the above,A
 70,3,20,PROLOG is an AI programming language which solves problems with a form of symbolic logic known as predicate calculus. It was developed in 1972 at the University of Marseilles by a team of specialists. Can you name the person who headed this team?,(A) Alain Colmerauer,(B) Nicklaus Wirth,(C) Seymour Papert,(D) John McCarthy,A
-71,3,21,In LISP the function evaluates <object> and assigns this value to the unevaluated <sconst>,(A) (constant <sconst> <object>),(B) (defconstant <sconst> <object>),(C) (eva <sconst> <object>),(D) (eva <object> <sconst>),B
+71,3,21,In LISP the function evaluates "<object>" and assigns this value to the unevaluated "<sconst>",(A) (constant <sconst> <object>),(B) (defconstant <sconst> <object>),(C) (eva <sconst> <object>),(D) (eva <object> <sconst>),B
 72,3,22,Programming a robot by physically moving it through the trajectory you want it to follow is called:,(A) Contact sensing control,(B) Continuous-path control,(C) Robot vision control,(D) Pick-and-place control,B
 73,3,23,The conference that launched the AI revolution in 1956 was held at:,(A) Dartmouth,(B) Harvard,(C) New York,(D) Stanford,A
 74,3,24,When a top-level function is entered the LISP processor do/does,(A) It reads the function entered,(B) It evaluates the function and the function's operands,(C) It prints the results returned by the function,(D) All of the above,D
