@@ -1,4 +1,4 @@
-﻿id,Type,quiz_number,question,option_1,option_2,option_3,option_4,answer
+﻿id,type,quiz_number,question,option_1,option_2,option_3,option_4,answer
 1,1,1,What is machine learning?,(A) The selective acquisition of knowledge through the use of manual programs,(B) The selective acquisition of knowledge through the use of computer programs,(C) The autonomous acquisition of knowledge through the use of manual programs,(D) The autonomous acquisition of knowledge through the use of computer programs,D
 2,1,2,Machine Learning is a field of AI consisting of learning algorithms that ..............,(A) At executing some task,(B) Over time with experience,(C) Improve their performance,(D) All of the above,D
 3,1,3,.............. is a widely used and effective machine learning algorithm based on the idea of bagging.,(A) Regression,(B) Classification,(C) Decision Tree,(D) Random Forest,D
