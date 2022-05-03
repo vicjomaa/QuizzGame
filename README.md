@@ -59,4 +59,11 @@ Code simple quiz UI intro
 Code simple quiz UI questions  
 Function to select a question from the csv and display it in the UI   
 Function check if the answer is correct or not and increase the score  
-Function to go to the next question and count the number of questions  
+Function to go to the next question and count the number of questions     
+
+
+<img width="587" alt="2" src="https://user-images.githubusercontent.com/69658240/166566287-aa2eef7d-effb-4800-8c5c-b051d492431b.png">
+<img width="588" alt="3" src="https://user-images.githubusercontent.com/69658240/166566311-576ebb42-e824-438e-ad29-2a7f85e0f194.png">
+
+
+
