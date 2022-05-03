@@ -48,14 +48,14 @@ class OnlineTest extends JFrame implements ActionListener
 		add(b1);add(b2);
 		set();
 		l.setBounds(30,10,650,90);
-		l_quiz.setBounds(450,40,450,20);
+		l_quiz.setBounds(450,300,100,30);
 		
 		for(int i=0,j=0;i<=120;i+=40,j++) {
 			jb[j].setBounds(50,120+i,450,30);
 		}
 		
-		b1.setBounds(100,340,100,30);
-		b2.setBounds(270,340,100,30);
+		b1.setBounds(100,300,100,30);
+		b2.setBounds(270,300,100,30);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLayout(null);
 		setLocation(250,100);
@@ -150,7 +150,7 @@ class OnlineTest extends JFrame implements ActionListener
 				current_quiz = "Artificial Intelligence";  
 			}    
 			
-			l_quiz.setText(current_quiz);  
+			l_quiz.setText("<html>"+current_quiz  +"</html>");  
 		
 		}
 		
