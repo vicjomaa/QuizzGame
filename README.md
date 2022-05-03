@@ -21,7 +21,8 @@ programming, machine learning and software engineering in general / a multiple-c
 • The incorrect answer would also give a descriptive text about why the answer is incorrect.   
 
 **Time limitation**  
-• The player would also have a timer running for every question (like 10-30 seconds based on the difficulty of the question).   
+• The player would also have a timer running for every question   
+(like 10-30 seconds based on the difficulty of the question).     
 • If the timer runs out, they will lose a heart.   
   
 **Point system (for unlocking the next quiz)**   
