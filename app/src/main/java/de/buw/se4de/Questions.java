@@ -20,13 +20,14 @@ import java.util.*;
 	public  Multimap<String, String> getQuestions()	{
 
 		Multimap<String, String> myMultimap = ArrayListMultimap.create();
-		try (Reader reader = Files.newBufferedReader(Paths.get("src/main/resources/Dataset_Questions.csv"));
+		try (Reader reader = Files.newBufferedReader(Paths.get("src/main/resources/Dataset_Questions1.csv"));
 				@SuppressWarnings("deprecation")
 				CSVParser csvParser = new CSVParser(reader,
 						CSVFormat.DEFAULT.withFirstRecordAsHeader().withIgnoreHeaderCase().withTrim());) {
 			for (CSVRecord csvRecord : csvParser) {
 				// Adding some key/value
 				String id = csvRecord.get("id");
+				myMultimap.put(id, csvRecord.get("Type"));
 				myMultimap.put(id, csvRecord.get("quiz_number"));
 				myMultimap.put(id, csvRecord.get("question"));
 				myMultimap.put(id, csvRecord.get("option_1"));
