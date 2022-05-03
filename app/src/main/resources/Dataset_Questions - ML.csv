@@ -1,0 +1,26 @@
+id,quiz_number,question,option_1,option_2,option_3,option_4,answer
+1,1,What is machine learning?,(A) The selective acquisition of knowledge through the use of manual programs,(B) The selective acquisition of knowledge through the use of computer programs,(C) The autonomous acquisition of knowledge through the use of manual programs,(D) The autonomous acquisition of knowledge through the use of computer programs,D
+2,2,Machine Learning is a field of AI consisting of learning algorithms that ..............,(A) At executing some task,(B) Over time with experience,(C) Improve their performance,(D) All of the above,D
+3,3,.............. is a widely used and effective machine learning algorithm based on the idea of bagging.,(A) Regression,(B) Classification,(C) Decision Tree,(D) Random Forest,D
+4,4,What is the disadvantage of decision trees?,(A) Factor analysis,(B) Decision trees are robust to outliers,(C) Decision trees are prone to be overfit,(D) All of the above,C
+5,5,................. is a widely used and effective machine learning algorithm based on the idea of bagging.,(A) Regression,(B) Classification,(C) Random Forest,(D) Decision Tree,C
+6,6,How can you handle missing or corrupted data in a dataset?,(A) Drop missing rows or columns,(B) Assign a unique category to missing values,(C) Replace missing values with mean/median/mode,(D) All of the above,D
+7,7,Which of the followings are most widely used metrics and tools to assess a classification model?,(A) Confusion matrix,(B) Cost-sensitive accuracy,(C) Area under the ROC curve,(D) All of the above,D
+8,8,"Machine learning algorithms build a model based on sample data, known as .................",(A) Training Data,(B) Transfer Data,(C) Data Training,(D) None of the above,A
+9,9,Machine learning is a subset of ................,(A) Deep Learning,(B) Artificial Intelligence,(C) Data Learining,(D) None of the above,B
+10,10,A Machine Learning technique that helps in detecting the outliers in data.,(A) Clustering,(B) Classification,(C) Anamoly Detection,(D) All of the above,C
+11,11,Who is the father of Machine Learning?,(A) Geoffrey Hill,(B) Geoffrey Chaucer,(C) Geoffrey Everest Hinton,(D) None of the above,B
+12,12,What is the most significant phase in a genetic algorithm?,(A) Selection,(B) Mutation,(C) Crossover,(D) Fitness function,C
+13,13,Which one in the following is not Machine Learning disciplines?,(A) Physics,(B) Information Theory,(C) Neurostatistics,(D) Optimization Control,C
+14,14,"Machine Learning has various function representation, which of the following is not function of symbolic?",(A) Decision Trees,(B) Rules in propotional Logic,(C) Rules in first-order predicate logic,(D) Hidden-Markov Models (HMM),D
+15,15,"................... algorithms enable the computers to learn from data, and even improve themselves, without being explicitly programmed.",(A) Deep Learning,(B) Machine Learning,(C) Artificial Intelligence,(D) None of the above,B
+16,16,What are the three types of Machine Learning?,(A) Supervised Learning,(B) Unsupervised Learning,(C) Reinforcement Learning,(D) All of the above,D
+17,17,Which of the following is not a supervised learning?,(A) PCA,(B) Naive Bayesian,(C) Linear Regression,(D) Decision Tree Answer,A
+18,18,"Real-Time decisions, Game AI, Learning Tasks, Skill acquisition, and Robot Navigation are applications of .............",(A) Reinforcement Learning,(B) Supervised Learning: Classification,(C) Unsupervised Learning: Regression,(D) None of the above,A
+19,19,Which of the following is not numerical functions in the various function representation of Machine Learning?,(A). Case-based,(B). Neural Network,(C). Linear Regression,(D). Support Vector Machines,A
+20,20,Common classes of problems in machine learning is ..............,(A) Clustering,(B) Regression,(C) Classification,(D) All of the above,D
+21,21,What is true about Machine Learning?,(A) Machine Learning (ML) is that field of computer science,(B) ML is a type of artificial intelligence that extract patterns out of raw data by using an algorithm or method.,(C) The main focus of ML is to allow computer systems learn from experience without being explicitly programmed or human intervention.,(D) All of the above,D
+22,22,ML is a field of AI consisting of learning algorithms that?,(A) Improve their performance,(B) At executing some task,(C) Over time with experience,(D) All of the above,D
+23,23,p → 0q is not a?,(A) hack clause,(B) horn clause,(C) structural clause,(D) system clause,B
+24,24,The action _______ of a robot arm specify to Place block A on block B.,"(A) STACK(A,B)","(B) LIST(A,B)","(C) QUEUE(A,B)","(D) ARRAY(A,B)",A
+25,25,A__________ begins by hypothesizing a sentence (the symbol S) and successively predicting lower level constituents until individual preterminal symbols are written.,(A) bottow-up parser,(B) top parser,(C) top-down parser,(D) bottom parser,C
