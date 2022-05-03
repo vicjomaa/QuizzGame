@@ -60,7 +60,7 @@ class OnlineTest extends JFrame implements ActionListener
 		setLayout(null);
 		setLocation(250,100);
 		setVisible(true);
-		setSize(700,450);
+		setSize(800,450);
 	}
 	public void actionPerformed(ActionEvent e)
 	{
