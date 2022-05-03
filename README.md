@@ -52,12 +52,11 @@ https://gameoftheyear.withgoogle.com/
 
 
 **>> Our Tasks**  
-Create github   
+~~Create github~~   
 Define functions, variables, classes   
 Function to extract info from csv   
-Manager of the UI -> controls intro UI and question UI   
+Code simple quiz UI intro   
+Code simple quiz UI questions  
 Function to select a question from the csv and display it in the UI   
 Function check if the answer is correct or not and increase the score  
 Function to go to the next question and count the number of questions  
-Code simple quiz UI intro   
-Code simple quiz UI questions  
