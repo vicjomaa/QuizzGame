@@ -47,14 +47,15 @@ class OnlineTest extends JFrame implements ActionListener
 		b2.addActionListener(this);
 		add(b1);add(b2);
 		set();
-		l.setBounds(30,40,450,20);
+		l.setBounds(30,10,650,90);
 		l_quiz.setBounds(450,40,450,20);
-		jb[0].setBounds(50,80,400,20);
-		jb[1].setBounds(50,110,400,20);
-		jb[2].setBounds(50,140,400,20);
-		jb[3].setBounds(50,170,400,20);
-		b1.setBounds(100,240,100,30);
-		b2.setBounds(270,240,100,30);
+		
+		for(int i=0,j=0;i<=120;i+=40,j++) {
+			jb[j].setBounds(50,120+i,450,30);
+		}
+		
+		b1.setBounds(100,340,100,30);
+		b2.setBounds(270,340,100,30);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLayout(null);
 		setLocation(250,100);
@@ -133,8 +134,8 @@ class OnlineTest extends JFrame implements ActionListener
 		if(current <= limitQuestions) {		
 			
 		
-			l.setText((String) question_data .get(2));
-			jb[0].setText((String) question_data.get(3));jb[1].setText((String) question_data .get(4));jb[2].setText((String) question_data .get(5));jb[3].setText((String) question_data .get(6));
+			l.setText("<html>"+(String) question_data .get(2) +"</html>");
+			jb[0].setText("<html>" +(String) question_data.get(3)+"</html>");jb[1].setText("<html>"+(String) question_data .get(4)+"</html>");jb[2].setText("<html>"+(String) question_data .get(5)+"</html>");jb[3].setText("<html>"+(String) question_data .get(6)+"</html>");
 			
 			
 			switch((String) question_data .get(0)){    
@@ -153,9 +154,10 @@ class OnlineTest extends JFrame implements ActionListener
 		
 		}
 		
-		l.setBounds(30,40,450,20);
-		for(int i=0,j=0;i<=90;i+=30,j++)
-			jb[j].setBounds(50,80+i,400,20);
+		//l.setBounds(30,40,450,20);
+		for(int i=0,j=0;i<=120;i+=40,j++) {
+			jb[j].setBounds(50,90+i,450,30);
+		}
 	}
 	boolean check()
 	{
