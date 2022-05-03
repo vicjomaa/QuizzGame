@@ -52,7 +52,7 @@ https://gameoftheyear.withgoogle.com/
 
 
 **>> Tasks**  
-~~Create github~~   
+Create github   
 Define functions, variables, classes   
 Function to extract info from csv   
 Code simple quiz UI intro   
