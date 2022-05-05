@@ -61,7 +61,9 @@ Code simple quiz UI questions
 Function to select a question from the csv and display it in the UI   
 Function check if the answer is correct or not and increase the score  
 Function to go to the next question and count the number of questions
-Function to control display lives and stop the game      
+Function to control display lives and stop the game         
+
+
 
 
 <img width="586" alt="1" src="https://user-images.githubusercontent.com/69658240/166991401-81d19d87-9e1e-40dc-8a64-063f22521a33.png">
