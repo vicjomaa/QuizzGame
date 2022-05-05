@@ -50,13 +50,21 @@ programming, machine learning and software engineering in general / a multiple-c
 **References:**  
 https://gameoftheyear.withgoogle.com/     
 
+---  
 
 **>> Tasks**  
-~~Create github~~   
+~~Create github   
 Define functions, variables, classes   
 Function to extract info from csv   
 Code simple quiz UI intro   
 Code simple quiz UI questions  
-Function to select a question from the csv and display it in the UI   
+Function to select a question from the csv and display it in the UI~~   
 Function check if the answer is correct or not and increase the score  
-Function to go to the next question and count the number of questions  
+Function to go to the next question and count the number of questions     
+
+
+<img width="587" alt="1" src="https://user-images.githubusercontent.com/69658240/166566931-518ce482-0f6c-432b-90a6-1f2c6cc43fbe.png">
+<img width="588" alt="3" src="https://user-images.githubusercontent.com/69658240/166566311-576ebb42-e824-438e-ad29-2a7f85e0f194.png">
+
+
+
