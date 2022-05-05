@@ -64,8 +64,11 @@ Function to go to the next question and count the number of questions
 Function to control display lives and stop the game      
 
 
-<img width="587" alt="1" src="https://user-images.githubusercontent.com/69658240/166566931-518ce482-0f6c-432b-90a6-1f2c6cc43fbe.png">
-<img width="588" alt="3" src="https://user-images.githubusercontent.com/69658240/166566311-576ebb42-e824-438e-ad29-2a7f85e0f194.png">
+<img width="586" alt="1" src="https://user-images.githubusercontent.com/69658240/166991401-81d19d87-9e1e-40dc-8a64-063f22521a33.png">
+<img width="589" alt="2" src="https://user-images.githubusercontent.com/69658240/166991483-c34eb7bd-d21f-476d-a648-c1061b1a5ed0.png">
+<img width="587" alt="3" src="https://user-images.githubusercontent.com/69658240/166991499-988116c9-5dcf-4c2c-aa47-c65b157241e7.png">
+<img width="586" alt="4" src="https://user-images.githubusercontent.com/69658240/166991531-7bf3523c-5dce-4280-b25e-46c8470209a8.png">
+
 
 
 
