@@ -56,9 +56,9 @@ class OnlineTest extends JFrame implements ActionListener
 		add(b1);add(b2);
 		
 		set();
-		l_headline.setText("<html><span style='font-size:15px'>Quiz Challenge</html>");
+		l_headline.setText("<html><span style='font-size:14px'>Quiz Challenge</html>");
 		l_lives.setText("<html> lives: "+ lives+"</html>");
-		l_headline.setBounds(30,30,200,20);
+		l_headline.setBounds(30,30,200,25);
 		l_quiz.setBounds(30,60,400,30);
 		l_lives.setBounds(400,60,100,30);
 		l_numQuestion.setBounds(550,60,100,30);
